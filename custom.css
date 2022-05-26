@@ -1,2 +1,4 @@
 /* Your custom styles goes here */
-    background-color: black !important;
+    body {
+    background-color: rgb(176, 190, 197) !important;
+}
