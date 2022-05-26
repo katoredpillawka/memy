@@ -154,6 +154,6 @@ nav.pagination a {
 }
 header {
   background: black;
-  font: white;
+  font: white  !important;
 }
 
