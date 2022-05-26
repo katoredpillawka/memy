@@ -3,11 +3,11 @@
   "output": "./build_output",
   "title": "Kat🔴redpill",
   "sort-albums-by": "title",
-  "sort-media-by": "filename",
+  "sort-media-by": "data",
   "download-photos": "copy",
   "cleanup": true,
   "theme": "flow", 
   "css": "./custom.css",
-  "footer": "🔴",
+  "footer": "Zawartość ma charakter edukacyjno-satyryczny",
   "usage-stats": false
 }
