@@ -1,8 +1,8 @@
 /* Your custom styles goes here */
     body {
-    background-color: rgb(176, 190, 197) !important;
+    background-color: rgb(242, 242, 242) !important;
 }
 header {
   background: black;
-  color: white;
+  font: white;
 }
