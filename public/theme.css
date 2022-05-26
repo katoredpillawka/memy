@@ -152,7 +152,7 @@ nav.pagination a {
     body {
     background-color: rgb(242, 242, 242) !important;
 }
-header {
+header,H1, a {
   background: black;
   color: white  !important;
 }
