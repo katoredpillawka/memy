@@ -3,12 +3,12 @@
     background: rgb(242, 242, 242) !important;
 }
     
-header h1{
-  text-align: center;  
+header {  
   background: black;
 }
 
 h1 a {
+  text-align: center;  
   color: white  !important;
 }
 footer p { 
