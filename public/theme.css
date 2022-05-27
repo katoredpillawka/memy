@@ -150,10 +150,17 @@ nav.pagination a {
 }
 /* Your custom styles goes here */
     body {
-    background-color: rgb(242, 242, 242) !important;
+    background: rgb(242, 242, 242) !important;
 }
-header a {
+    
+header {
   background: black;
+}
+
+h1 a {
   color: white  !important;
+}
+footer { 
+     font-style: bold;
 }
 
