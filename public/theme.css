@@ -148,7 +148,7 @@ nav.pagination a {
 #zip a {
   color: #3399ff;
 }
-body, div, {
+html, body, div {
   background: #F7F7F7;
   color: #666666;
   font-family: "Open Sans", sans-serif;
