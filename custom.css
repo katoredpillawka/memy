@@ -1,4 +1,4 @@
-body, div {
+body, div, h1 {
   background: #fff;
   color: #666666;
   font-family: "Open Sans", sans-serif;
@@ -32,10 +32,10 @@ h1, h2, h3, h4, h5,h6 {
 }
 
 footer {
-  padding: 0;
+  padding: 5px 0 35px 0;
   margin: 5px 0 35px 0;
-  list-style: none;
   text-align: center;
+  font-style: normal;
   color:  #fff;
   background: black;
 }
