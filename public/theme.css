@@ -149,13 +149,13 @@ nav.pagination a {
   color: #3399ff;
 }
 body, div {
-  background: black;
+  background: #fff;
   color: #666666;
   font-family: "Open Sans", sans-serif;
 }
 
 a {
-  color: yellow;
+  color: black;
   transition: 0.5s;
 }
 
@@ -178,21 +178,14 @@ h1, h2, h3, h4, h5,h6 {
 }
 
 #container {
-  background: green;
+  background: #fff;
 }
 
-div #container {
-  background: red;
-  padding: 0;
-  margin: 5px 0 35px 0;
-  list-style: none;
-  text-align: center;
-}
 footer {
   padding: 0;
   margin: 5px 0 35px 0;
   list-style: none;
   text-align: center;
-  background: #fff;
+  background: black;
 }
 
