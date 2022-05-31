@@ -172,12 +172,15 @@ header a{
 }
 
 header {
-  padding: 15px 0 15px 0;
-  margin: 15px 0 15px 0;
+  padding: 15px 0 0 0;
+  margin: 0;
   text-align: center;
   font-style: normal;
   color:  #fff;
   background: black;
+}
+
+nav {display: none;
 }
 
 p {
@@ -197,7 +200,7 @@ h1, h2, h3, h4, h5,h6 {
 }
 
 footer {
-  padding: 15px 0 15px 0;
+  padding: 25px 0 5px 0;
   margin: 0;
   text-align: center;
   font-style: normal;
