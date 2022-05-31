@@ -148,11 +148,12 @@ nav.pagination a {
 #zip a {
   color: #3399ff;
 }
-body, div, h1 {
+body, div, {
   background: #fff;
   color: #666666;
   font-family: "Open Sans", sans-serif;
 }
+
 
 a {
   color: black;
@@ -163,6 +164,15 @@ a:hover, a:active, a:focus {
   color: #7F0000;
   outline: none;
   text-decoration: none;
+}
+
+header {
+  padding: 35px 0 35px 0;
+  margin: 5px 0 35px 0;
+  text-align: center;
+  font-style: normal;
+  color:  #fff;
+  background: black;
 }
 
 p {
@@ -182,7 +192,7 @@ h1, h2, h3, h4, h5,h6 {
 }
 
 footer {
-  padding: 5px 0 35px 0;
+  padding: 35px 0 35px 0;
   margin: 5px 0 35px 0;
   text-align: center;
   font-style: normal;
