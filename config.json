@@ -3,6 +3,7 @@
   "output": "./build_output",
   "title": " KAT🔴REDPILL – ARCHIWUM MEMÓW",
   "sort-albums-by": "title",
+  "album-previews": "random",
   "sort-media-by": "filename",
   "download-photos": "copy",
   "cleanup": true,
