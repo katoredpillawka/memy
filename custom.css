@@ -1,5 +1,5 @@
 body, div, {
-  background: #666666;
+  background: #F7F7F7;
   color: #666666;
   font-family: "Open Sans", sans-serif;
 }
@@ -46,7 +46,7 @@ h1, h2, h3, h4, h5,h6 {
 }
 
 #container {
-  background: #666666;
+  background: #F7F7F7;
 }
 
 footer {
