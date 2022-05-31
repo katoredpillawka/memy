@@ -8,6 +8,6 @@
   "cleanup": true,
   "theme": "flow", 
   "css": "./custom.css",
-  "footer": " <strong>Zawartość ma charakter edukacyjno-satyryczny</strong> <br/><br/> <s>&copy; Copyright</s> <strong><a href="https://katoredpillawka.github.io/home/">KAT🔴REDPILLAWKA</a></strong>. No Rights Reserved.",
+  "footer": " <strong>Zawartość ma charakter edukacyjno-satyryczny</strong> <br/><br/> <s>&copy; Copyright</s> <strong>KAT🔴REDPILLAWKA</strong>. No Rights Reserved.",
   "usage-stats": false
 }
