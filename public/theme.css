@@ -148,20 +148,18 @@ nav.pagination a {
 #zip a {
   color: #3399ff;
 }
-body {
-  background: #fff;
+body, div {
+  background: black;
   color: #666666;
   font-family: "Open Sans", sans-serif;
 }
 
 a {
-  color: red;
+  color: yellow;
   transition: 0.5s;
 }
 
-a:hover,
-a:active,
-a:focus {
+a:hover, a:active, a:focus {
   color: #7F0000;
   outline: none;
   text-decoration: none;
@@ -172,26 +170,29 @@ p {
   margin: 0 0 30px 0;
 }
 
-h1,
-h2,
-h3,
-h4,
-h5,
-h6 {
+h1, h2, h3, h4, h5,h6 {
   font-family: "Montserrat", sans-serif;
   font-weight: 400;
   margin: 0 0 20px 0;
   padding: 0;
 }
 
-#portfolio {
-  padding: 60px 0;
+#container {
+  background: green;
 }
 
-#portfolio #portfolio-flters {
+div #container {
+  background: red;
   padding: 0;
   margin: 5px 0 35px 0;
   list-style: none;
   text-align: center;
+}
+footer {
+  padding: 0;
+  margin: 5px 0 35px 0;
+  list-style: none;
+  text-align: center;
+  background: #fff;
 }
 
