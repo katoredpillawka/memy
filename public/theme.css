@@ -149,7 +149,7 @@ nav.pagination a {
   color: #3399ff;
 }
 body, div, {
-  background: #fff;
+  background: #666666;
   color: #666666;
   font-family: "Open Sans", sans-serif;
 }
@@ -196,7 +196,7 @@ h1, h2, h3, h4, h5,h6 {
 }
 
 #container {
-  background: #fff;
+  background: #666666;
 }
 
 footer {
