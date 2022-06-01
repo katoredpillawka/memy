@@ -4,7 +4,6 @@ html, body, div {
   font-family: "Open Sans", sans-serif;
 }
 
-
 a {
   color: black;
   transition: 0.5s;
@@ -28,6 +27,9 @@ header {
   font-style: normal;
   color:  #fff;
   background: black;
+}
+
+.summary{display: none;
 }
 
 nav {display: none;
