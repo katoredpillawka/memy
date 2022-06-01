@@ -6,6 +6,7 @@
   "album-previews": "random",
   "sort-media-by": "filename",
   "download-photos": "copy",
+  "album-zip-files": true,
   "cleanup": true,
   "theme": "flow", 
   "css": "./custom.css",
