@@ -5,6 +5,8 @@
   "sort-albums-by": "title",
   "album-previews": "first",
   "sort-media-by": "date",
+  "sort-media-direction": "desc",
+  "album-page-size": 100, 
   "download-photos": "copy",
   "album-zip-files": true,
   "cleanup": true,
