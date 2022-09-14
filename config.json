@@ -4,7 +4,7 @@
   "title": " KAT🔴REDPILL – ARCHIWUM MEMÓW",
   "sort-albums-by": "date",
   "album-previews": "first",
-  "sort-media-by": "filename",
+  "sort-media-by": "fdate",
   "download-photos": "copy",
   "album-zip-files": true,
   "cleanup": true,
